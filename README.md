@@ -1,6 +1,7 @@
 
 [![license](https://badgen.net/badge/license/CC-BY-4.0/green)](https://creativecommons.org/licenses/by-sa/4.0/deed.zh)
 [![github](https://badgen.net/badge/github/StabilityGuide/orange)](https://github.com/StabilityMan/StabilityGuide)
+[![document](https://badgen.net/badge/document/stabilityman.github.io/red)](https://stabilityman.github.io)
 [![chat](https://badgen.net/badge/chat/dingding/blue)](https://github.com/StabilityMan/StabilityGuide/blob/master/DingGroup_2.png)
 
 
@@ -15,6 +16,7 @@
 
 ## 加入我们
 * [GitHub 地址](https://github.com/StabilityMan/StabilityGuide)
+* [在线文档站（阅读体验更佳）](https://stabilityman.github.io)
 * 钉钉群号
   * 30000312（2群，推荐） 
   * 23179349（1群，已满）
